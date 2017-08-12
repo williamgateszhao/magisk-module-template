@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=GappsRuntimePermissionsFixer
+name=Gapps Runtime Permissions Fixer
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=WilliamGates
+description=Fix gapps' runtime permissions to prevent crash
 template=4
