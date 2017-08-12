@@ -219,7 +219,7 @@ grantPerms "$googlecontactssyncPackage" "$CONTACTS_PERMISSIONS"
 
 # Google Calendar Sync
 googlecalendarsyncPackage="com.google.android.syncadapters.calendar"
-grantPerms "$googlecalendarsyncPackage" "CALENDAR_PERMISSIONS"
+grantPerms "$googlecalendarsyncPackage" "$CALENDAR_PERMISSIONS"
 
 # Google Backup Transport
 googlebackuptransportPackage="com.google.android.backuptransport"
